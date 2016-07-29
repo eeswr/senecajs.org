@@ -31,7 +31,8 @@
     "Adrien Becchis (https://github.com/AdrieanKhisbe)",
     "Tim Carry (https://github.com/pixelastic)",
     "Karolina Szczur (https://github.com/thefoxis)",
-    "Kamil Mech (https://github.com/kamil-mech)"
+    "Kamil Mech (https://github.com/kamil-mech)",
+    "Emer Rutherford (https://github.com/eeswr)"
   ],
   "dependencies": {
     "handlebars": "^4.0.5",
